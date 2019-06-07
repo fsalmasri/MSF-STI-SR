@@ -29,7 +29,7 @@
 | VDSR2     | Original VDSR model                        |  
 | VDSR3     | VDSRex                                     |  
   
-#### Models used the Color-coded votes flow diagram  
+#### Models used in the Color-coded votes flow diagram  
   
 | | |  
 |-----------|:------------|  
