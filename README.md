@@ -1,4 +1,4 @@
-##Multimodal Sensor Fusion In Single Thermal image Super-Resolution  
+## Multimodal Sensor Fusion In Single Thermal image Super-Resolution  
 [MSF-STI-SR](https://arxiv.org/abs/1812.09276v1)  
   
 [Feras Almasri](), [Olivier Debeir]()  
